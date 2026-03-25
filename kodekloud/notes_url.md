@@ -5,6 +5,7 @@
 
 ** Fundamentals of DevOps ** ( https://notes.kodekloud.com/docs/Fundamentals-of-DevOps/Introduction/Course-Introduction/page)
 
+** Learning Linux Basics Course & Labs ** ( https://notes.kodekloud.com/docs/Learning-Linux-Basics-Course-Labs/Introduction/Course-Introduction/page )
 
 
 
